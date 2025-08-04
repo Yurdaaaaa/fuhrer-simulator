@@ -25,7 +25,6 @@ Führer Simulator is a light-hearted, comedic simulation game where you take con
 ## 📦 Features
 
 - Simple click/decision-based mechanics
-- Funny and exaggerated scenarios
 - No historical accuracy intended
 
 ## 🚫 Important Notes
