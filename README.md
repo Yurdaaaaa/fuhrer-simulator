@@ -4,7 +4,9 @@
 
 ## 🖼️ Screenshot
 
-![Führer Simulator Screenshot](fuhrer-simulator-screenshot.png)
+<p align="center">
+  <img src="fuhrer-simulator-screenshot.png" alt="Führer Simulator Screenshot" width="600"/>
+</p>
 
 > ⚠️ **Disclaimer**  
 > This project **does not** support, promote, or glorify Nazism or any hateful ideology.  
