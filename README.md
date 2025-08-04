@@ -2,11 +2,15 @@
 
 **Führer Simulator** is a simple Unity game built with C#. This game is purely fictional and intended for entertainment purposes only.
 
-## 🎬 GamePlay
+<p align="center">
+  <img src="fuhrer-simulator-screenshot.png" alt="Führer Simulator Screenshot" width="600"/>
+</p>
+
+## 🎬 Trailer
 
 <p align="center">
   <a href="fuhrer%20trailer%20with%20sound.mov">
-    <img src="fuhrer-trailer-thumbnail.png" alt="Klikni pro přehrání traileru" width="600"/>
+    <img src="fuhrer-trailer-thumbnail.png" alt="Download to see the trailer" width="600"/>
   </a>
 </p>
 
