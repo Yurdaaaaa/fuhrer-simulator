@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="fuhrer%20trailer%20with%20sound.mov">
-    <img src="fuhrer-trailer-thumbnail.png" alt="Download to see the trailer" width="600"/>
+    <img src="fuhrer-simulator-screenshot.png" alt="Download to see the trailer" width="600"/>
   </a>
 </p>
 
